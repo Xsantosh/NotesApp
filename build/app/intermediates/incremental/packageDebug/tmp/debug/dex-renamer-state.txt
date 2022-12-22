@@ -1,0 +1,4 @@
+#Mon Nov 28 16:53:47 IST 2022
+base.0=/Users/adtechnology/Desktop/Santosh/NoteApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
